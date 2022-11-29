@@ -37,3 +37,5 @@ Amazon CloudWatch — Após a definição dos indicadores para monitoramento, po
 Amazon CloudTrail - Pensando em governança,complience ativaremos esse reecurso para auditar os acessos  onde será armazenado a cada 15 min eventos sobre  "quem" acessa o "que".
 
 Amazon S3 -  Armazenamento dos logs coletados pelo Cloud Trail e armazenamento do conteúdo estático da aplicação.
+
+prj-test
